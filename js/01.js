@@ -1,4 +1,4 @@
-// Variables
+// Variables con var
 // Hay 3 formas de crear variables
 
 var producto = "Audifonos Gamer"; //Iniciar variable y asignarle valor, var ya no se utiliza

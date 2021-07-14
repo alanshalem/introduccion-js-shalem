@@ -29,3 +29,11 @@ console.log(texto1.indexOf("Javascript")); //Buscamos si el string "Javascript" 
 console.log(texto2.indexOf("Tablet"));
 //funcion(valor)
 //objeto.metodo()
+
+//Includes (retorna true o false)
+console.log(texto1.includes("Javascript")); //Buscamos si el string "Javascript" se
+console.log(texto2.includes("Tablet"));
+
+//Ej con emails
+const email = "correo@example.com";
+console.log(email.indexOf("@"));

@@ -22,4 +22,4 @@ const { nombreProducto } = producto;
 console.log(nombreProducto);
 
 //Otra forma para ahorrar codigo, el resultado es el mismo
-const { precio, nombreProducto, disponible } = precio;
+const { precio, nombreProducto, disponible } = producto;

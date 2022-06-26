@@ -1,37 +1,38 @@
 # INTRODUCCION A JS
-
-1. VARIABLES CON VAR [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/01.js)
-2. VARIABLES CON LET [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/02.js)
-3. VARIABLES CON CONST [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/03.js)
-4. STRINGS O CADENAS DE TEXTO (typeof - .length - .indexOf("") - .includes("")) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/04.js)
-5. NUMEROS Y OPERADORES ( + - \* / %) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/05.js)
-6. MATH EN JS (Math.random() - Math.PI - Math.round() - Math.ceil() - Math.floor() - Math.sqrt() - Math.abs() - Math.min() - Math.max() - Math.floor() - Math.) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/06.js)
-7. ORDEN DE LAS OPERACIONES EN JS [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/07.js)
-8. CONCATENACION Y TEMPLATE STRINGS [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/08.js)
-9. BOOLEANS (DECLARACION DE BOOLEANO CON CONSTRUCTOR) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/09.js)
-10. OBJETOS EN JS (SINTAXIS DE PUNTO - AGREGAR PROPIEDADES - ELIMINAR PROPIEDADES) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/10.js)
-11. DESTRUCTURING DE OBJETOS (CREAR VARIABLES A PARTIR DE LAS PROPIEDADES DE UN OBJETO) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/11.js)
-12. FREEZE Y SEAL EN OBJETOS - USE STRICT [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/12.js)
-13. UNIR OBJETOS CON SPREAD OPERATOR [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/13.js)
-14. ARRAYS ( .length - .forEach() - .push() - .unshift() - pop() - shift() - splice - spread operator) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/14.js)
-15. MAS METODOS DE ARRAYS ( .includes() - .some() - .reduce() - .filter()) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/15.js)
-16. FUNCIONES (DECLARACION - EXPRESION - IIFE) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/16.js)
-17. DIFERENCIA ENTRE METODO Y FUNCION ( funcion() - .metodo()) 16. FUNCIONES (DECLARACION - EXPRESION - IIFE) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/17.js)
-18. FUNCIONES CON PARAMETROS Y ARGUMENTOS 16. FUNCIONES (DECLARACION - EXPRESION - IIFE) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/18.js)
-19. FUNCIONES QUE RETORNAN PARAMETROS [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/19.js)
-20. METODOS DE PROPIEDAD (FUNCIONES CON SINTAXIS DE METODO) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/20.js)
-21. ARROW FUNCTIONS [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/21.js)
-22. ESTRUCTURAS DE CONTROL DE CODIGO O CODIGO CONDICIONAL ( IF - ELSE IF - ELSE) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/22.js)
-23. SWITCH [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/23.js)
-24. FOR - WHILE - DO WHILE [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/24.js)
-25. FOREACH - MAP [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/25.js)
-26. THIS EN JS [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/26.js)
-27. OOP (OBJECT LITERAL Y OBJECT CONSTRUCTOR - PROTOTYPES (NO SE USA MAS TODO ESTO DESDE ES6)) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/27.js)
-28. CLASES (CONSTRUCTOR - HERENCIA - SUPER) [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/28.js)
-29. TRY CATCH [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/29.js)
-30. PROMISES [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/30.js)
-31. NOTIFICATION API [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/31.js)
-32. ASYNC-AWAIT [VER AHORA.](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/32.js)
+| Contenido                                                                                                                                                    | Ir                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Variables con var                                                                                                                                            | [01.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/01.js) |
+| Variables con let                                                                                                                                            | [02.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/02.js) |
+| Variables con const                                                                                                                                          | [03.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/03.js) |
+| Strings o cadenas de texto (typeof - .length - .indexOf("") - .includes(""))                                                                                 | [04.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/04.js) |
+| Numeros y Operadores ( + - \* / %)                                                                                                                           | [05.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/05.js) |
+| Math en js (Math.random() - Math.PI - Math.round() - Math.ceil() - Math.floor() - Math.sqrt() - Math.abs() - Math.min() - Math.max() - Math.floor() - Math.) | [06.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/06.js) |
+| Orden de las operaciones en JS                                                                                                                               | [07.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/07.js) |
+| Concatenacion y template strings                                                                                                                             | [08.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/08.js) |
+| Booleans (Declaracion de booleano con constructor)                                                                                                           | [09.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/09.js) |
+| Objetos en Js (Sintaxis de punto - agregar propiedades - eliminar propiedades)                                                                               | [10.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/10.js) |
+| Destructuring de objetos (crear variables a partir de las propiedades de un objeto)                                                                          | [11.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/11.js) |
+| Freeze y Seal en Objetos - Use Strict                                                                                                                        | [12.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/12.js) |
+| Unir Objetos con Spread Operator                                                                                                                             | [13.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/13.js) |
+| Arrays ( .length - .forEach() - .push() - .unshift() - pop() - shift() - splice - spread operator)                                                           | [14.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/14.js) |
+| Mas metodos de arrays ( .includes() - .some() - .reduce() - .filter())                                                                                       | [15.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/15.js) |
+| Funciones (declaracion - expresion - iife)                                                                                                                   | [16.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/16.js) |
+| Diferencia entre Metodo y Funcion ( funcion() - .metodo())                                                                                                   | [17.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/17.js) |
+| Funciones con parametros y argumentos                                                                                                                        | [18.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/18.js) |
+| Funciones que retornan parametros                                                                                                                            | [19.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/18.js) |
+| Metodos de propiedad (funciones con sintaxis de metodo)                                                                                                      | [20.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/20.js) |
+| Arrow Functions                                                                                                                                              | [21.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/21.js) |
+| Estructuras de control de codigo o codigo condicional (if - else if - else)                                                                                  | [22.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/22.js) |
+| Switch                                                                                                                                                       | [23.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/23.js) |
+| For - While - Do While                                                                                                                                       | [24.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/24.js) |
+| forEach - map                                                                                                                                                | [25.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/25.js) |
+| this en Js                                                                                                                                                   | [26.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/26.js) |
+| OOP (Object Literal y Object Constructor - prototypes (no se usa mas todo esto desde es6))                                                                   | [27.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/27.js) |
+| Clases (constructor - herencia - super)                                                                                                                      | [28.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/28.js) |
+| Try Catch                                                                                                                                                    | [29.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/29.js) |
+| Promises                                                                                                                                                     | [30.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/30.js) |
+| Notification API                                                                                                                                             | [31.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/31.js) |
+| Async - Await                                                                                                                                                | [32.js](https://github.com/alanshalem/introduccion-js-shalem/blob/main/js/32.js) |
 
 # INTRODUCCION A JAVASCRIPT
 
